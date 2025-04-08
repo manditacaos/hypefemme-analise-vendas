@@ -1,0 +1,301 @@
+id_venda;data_venda;produto;categoria; preco_unitario ;quantidade;canal_venda; custo_unitario ;cliente_id;estado
+1;23/11/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL5012;RS
+2;12/03/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Shopee; R$ 40,00 ;CL9935;RJ
+3;29/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL4582;RS
+4;15/09/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Instagram; R$ 28,00 ;CL9928;SC
+5;22/04/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL1106;MG
+6;23/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL4527;PR
+7;22/02/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Site; R$ 48,00 ;CL6635;GO
+8;15/05/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Instagram; R$ 48,00 ;CL3045;SC
+9;10/02/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Shopee; R$ 28,00 ;CL6925;GO
+10;08/04/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Site; R$ 40,00 ;CL4733;BA
+11;10/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Instagram; R$ 35,00 ;CL8428;PR
+12;24/03/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Site; R$ 95,00 ;CL5374;RJ
+13;07/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Instagram; R$ 40,00 ;CL5010;MG
+14;24/08/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Mercado Livre; R$ 72,00 ;CL4598;PR
+15;29/01/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Shopee; R$ 35,00 ;CL7572;BA
+16;03/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Mercado Livre; R$ 35,00 ;CL6155;RS
+17;01/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Mercado Livre; R$ 72,00 ;CL8517;MG
+18;15/05/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Shopee; R$ 35,00 ;CL9830;BA
+19;26/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Instagram; R$ 72,00 ;CL4593;MG
+20;17/09/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Shopee; R$ 72,00 ;CL2796;MG
+21;17/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Instagram; R$ 35,00 ;CL2040;SC
+22;14/07/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Instagram; R$ 28,00 ;CL1188;RJ
+23;15/12/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Shopee; R$ 28,00 ;CL6573;RJ
+24;30/05/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Instagram; R$ 72,00 ;CL5315;DF
+25;01/04/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Mercado Livre; R$ 28,00 ;CL5889;DF
+26;07/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Instagram; R$ 35,00 ;CL3646;DF
+27;28/09/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL1319;RJ
+28;04/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL2290;RJ
+29;05/09/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Shopee; R$ 48,00 ;CL3103;PE
+30;08/10/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Instagram; R$ 35,00 ;CL7932;RS
+31;03/10/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL6107;SC
+32;09/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL9479;PE
+33;02/03/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL1344;GO
+34;10/10/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Site; R$ 35,00 ;CL2163;SP
+35;27/04/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Mercado Livre; R$ 48,00 ;CL2160;DF
+36;01/05/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Instagram; R$ 95,00 ;CL9834;MG
+37;19/10/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL8749;SC
+38;07/04/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL6804;SC
+39;29/07/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL2612;SP
+40;25/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Shopee; R$ 40,00 ;CL2790;RS
+41;08/04/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Instagram; R$ 35,00 ;CL7912;MG
+42;22/05/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Mercado Livre; R$ 72,00 ;CL2235;PE
+43;08/10/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL9856;SP
+44;17/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Instagram; R$ 35,00 ;CL8886;RS
+45;24/07/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Instagram; R$ 48,00 ;CL7396;BA
+46;20/08/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Shopee; R$ 95,00 ;CL8973;MG
+47;07/04/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Mercado Livre; R$ 95,00 ;CL9883;SP
+48;09/06/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Instagram; R$ 48,00 ;CL9238;DF
+49;21/03/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL4044;RJ
+50;31/10/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Mercado Livre; R$ 48,00 ;CL7615;RJ
+51;18/10/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Instagram; R$ 35,00 ;CL2343;SC
+52;02/12/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Instagram; R$ 28,00 ;CL5272;RS
+53;08/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL7484;MG
+54;09/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL2188;SP
+55;22/08/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Mercado Livre; R$ 28,00 ;CL2200;DF
+56;19/04/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL6718;RJ
+57;05/05/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Site; R$ 95,00 ;CL9900;BA
+58;09/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL5905;RJ
+59;09/03/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Mercado Livre; R$ 95,00 ;CL3546;BA
+60;24/05/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Shopee; R$ 28,00 ;CL4335;BA
+61;15/09/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Mercado Livre; R$ 72,00 ;CL1832;RJ
+62;20/11/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL6464;MG
+63;22/11/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Shopee; R$ 95,00 ;CL8007;DF
+64;05/01/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Mercado Livre; R$ 48,00 ;CL3442;DF
+65;19/01/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Instagram; R$ 95,00 ;CL8041;MG
+66;22/01/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Mercado Livre; R$ 95,00 ;CL1653;PR
+67;17/04/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Shopee; R$ 40,00 ;CL6794;DF
+68;27/07/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL4878;MG
+69;31/03/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL6442;SC
+70;08/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Site; R$ 40,00 ;CL2771;SC
+71;20/01/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL8541;PR
+72;05/06/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL4164;SC
+73;17/06/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Mercado Livre; R$ 95,00 ;CL5573;PR
+74;24/11/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Shopee; R$ 28,00 ;CL9785;PR
+75;15/01/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Site; R$ 48,00 ;CL5349;SP
+76;25/02/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL6139;SC
+77;06/11/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Instagram; R$ 28,00 ;CL4114;BA
+78;23/01/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL9821;RS
+79;05/07/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Mercado Livre; R$ 72,00 ;CL6409;GO
+80;09/06/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Shopee; R$ 40,00 ;CL5920;DF
+81;07/06/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL5844;DF
+82;06/03/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Shopee; R$ 35,00 ;CL7211;MG
+83;11/11/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Instagram; R$ 28,00 ;CL1006;BA
+84;26/05/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Shopee; R$ 35,00 ;CL6279;PE
+85;14/08/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL8752;MG
+86;03/12/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Instagram; R$ 48,00 ;CL6491;RJ
+87;30/04/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL4262;MG
+88;13/01/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Mercado Livre; R$ 48,00 ;CL2193;PE
+89;31/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL7291;PE
+90;23/07/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Shopee; R$ 35,00 ;CL1090;RJ
+91;05/08/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Shopee; R$ 35,00 ;CL9486;PE
+92;26/01/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Mercado Livre; R$ 28,00 ;CL2988;PE
+93;09/03/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Instagram; R$ 72,00 ;CL6198;PE
+94;09/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL9976;PE
+95;22/03/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL5050;BA
+96;23/09/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL8206;RJ
+97;31/12/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL6238;DF
+98;11/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL3503;RS
+99;02/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL8633;SC
+100;01/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Instagram; R$ 35,00 ;CL1320;GO
+101;13/07/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Mercado Livre; R$ 72,00 ;CL5892;SC
+102;02/08/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Shopee; R$ 28,00 ;CL4613;PE
+103;22/04/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Instagram; R$ 95,00 ;CL7371;PR
+104;08/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Shopee; R$ 40,00 ;CL8657;MG
+105;14/11/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Mercado Livre; R$ 28,00 ;CL1444;RJ
+106;25/11/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Mercado Livre; R$ 72,00 ;CL3977;SP
+107;13/05/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL6355;PR
+108;13/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Site; R$ 95,00 ;CL2341;PE
+109;10/01/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL6733;RS
+110;28/11/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL1508;RS
+111;12/04/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL3068;PE
+112;08/12/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Mercado Livre; R$ 48,00 ;CL8619;BA
+113;07/07/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Instagram; R$ 35,00 ;CL2876;MG
+114;08/06/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL6111;GO
+115;12/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Mercado Livre; R$ 72,00 ;CL4249;RJ
+116;30/10/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL5941;GO
+117;02/03/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Site; R$ 28,00 ;CL8018;PR
+118;05/02/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL7882;PE
+119;24/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Instagram; R$ 72,00 ;CL8532;MG
+120;10/08/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Instagram; R$ 35,00 ;CL5425;GO
+121;02/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Instagram; R$ 72,00 ;CL5397;PR
+122;05/05/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Mercado Livre; R$ 48,00 ;CL4995;PE
+123;18/10/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Instagram; R$ 28,00 ;CL1470;PE
+124;15/06/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Site; R$ 35,00 ;CL5232;PR
+125;23/05/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Mercado Livre; R$ 28,00 ;CL1166;DF
+126;07/04/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL9004;DF
+127;03/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL9041;PE
+128;09/01/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Site; R$ 48,00 ;CL4986;BA
+129;05/12/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Instagram; R$ 28,00 ;CL9698;PR
+130;05/08/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL8434;BA
+131;05/06/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL4155;PR
+132;02/03/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Mercado Livre; R$ 40,00 ;CL4033;RS
+133;20/04/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL9595;GO
+134;24/05/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Site; R$ 48,00 ;CL6912;MG
+135;03/06/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Instagram; R$ 48,00 ;CL5494;SP
+136;28/01/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Shopee; R$ 28,00 ;CL3068;PE
+137;22/02/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL8843;PE
+138;23/06/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL8827;RJ
+139;03/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL1878;MG
+140;17/03/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL5066;RJ
+141;12/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Instagram; R$ 72,00 ;CL4697;DF
+142;13/07/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL8025;BA
+143;18/10/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Instagram; R$ 28,00 ;CL2625;RS
+144;16/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Shopee; R$ 35,00 ;CL3573;RS
+145;29/03/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Site; R$ 28,00 ;CL7693;PE
+146;18/12/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL4792;BA
+147;27/12/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Mercado Livre; R$ 95,00 ;CL2166;RS
+148;15/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Shopee; R$ 40,00 ;CL4241;SC
+149;28/02/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Instagram; R$ 28,00 ;CL5352;MG
+150;06/02/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL5728;PE
+151;04/03/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL7594;BA
+152;13/09/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Instagram; R$ 28,00 ;CL1653;SC
+153;14/06/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL4750;GO
+154;27/10/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Shopee; R$ 48,00 ;CL1659;MG
+155;28/08/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Instagram; R$ 28,00 ;CL5557;MG
+156;26/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Shopee; R$ 72,00 ;CL2494;PE
+157;27/06/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL2713;MG
+158;17/06/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Instagram; R$ 72,00 ;CL7561;DF
+159;19/01/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL6296;RJ
+160;25/07/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Shopee; R$ 28,00 ;CL9889;PE
+161;30/07/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Instagram; R$ 48,00 ;CL9167;PE
+162;27/01/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Instagram; R$ 35,00 ;CL5719;PE
+163;23/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL4920;MG
+164;08/06/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Instagram; R$ 28,00 ;CL2527;RS
+165;28/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Instagram; R$ 72,00 ;CL3522;PE
+166;29/05/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL8905;PE
+167;04/05/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL4122;GO
+168;17/09/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Mercado Livre; R$ 40,00 ;CL5526;SC
+169;23/06/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Shopee; R$ 28,00 ;CL5634;BA
+170;27/10/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Instagram; R$ 28,00 ;CL3434;PE
+171;02/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL9903;SC
+172;21/08/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Mercado Livre; R$ 95,00 ;CL4912;GO
+173;15/07/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Site; R$ 35,00 ;CL8749;SC
+174;16/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Mercado Livre; R$ 40,00 ;CL9115;SP
+175;05/03/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL2644;PE
+176;21/02/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Site; R$ 28,00 ;CL3361;SC
+177;01/12/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Instagram; R$ 35,00 ;CL5342;PR
+178;15/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL6383;DF
+179;13/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Shopee; R$ 95,00 ;CL8994;DF
+180;19/01/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Site; R$ 28,00 ;CL5708;RS
+181;16/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Shopee; R$ 72,00 ;CL2646;PE
+182;26/03/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Mercado Livre; R$ 40,00 ;CL1753;PR
+183;29/01/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Instagram; R$ 95,00 ;CL3385;RS
+184;28/09/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Shopee; R$ 72,00 ;CL3950;MG
+185;30/03/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Mercado Livre; R$ 48,00 ;CL4945;PE
+186;25/10/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Instagram; R$ 35,00 ;CL5161;PE
+187;10/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Mercado Livre; R$ 40,00 ;CL8622;BA
+188;12/12/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Site; R$ 28,00 ;CL6661;GO
+189;02/06/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Shopee; R$ 40,00 ;CL8484;BA
+190;11/04/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL7248;GO
+191;02/07/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Mercado Livre; R$ 28,00 ;CL5837;SP
+192;03/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Site; R$ 72,00 ;CL1803;GO
+193;11/09/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Instagram; R$ 95,00 ;CL6772;RS
+194;21/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Site; R$ 35,00 ;CL3240;RJ
+195;17/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Site; R$ 40,00 ;CL8222;SP
+196;23/10/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Site; R$ 95,00 ;CL5835;PR
+197;31/07/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL9837;PR
+198;28/09/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Shopee; R$ 28,00 ;CL5210;PE
+199;31/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Shopee; R$ 40,00 ;CL8673;RJ
+200;13/03/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Shopee; R$ 35,00 ;CL7511;DF
+201;06/07/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Site; R$ 48,00 ;CL9791;RJ
+202;20/08/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Shopee; R$ 95,00 ;CL5295;GO
+203;14/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL4830;PE
+204;13/01/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL4626;RJ
+205;21/11/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL7689;RJ
+206;12/03/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Site; R$ 48,00 ;CL9071;RJ
+207;19/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Site; R$ 35,00 ;CL8432;PR
+208;09/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Mercado Livre; R$ 40,00 ;CL7866;GO
+209;20/03/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL9017;GO
+210;27/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Shopee; R$ 95,00 ;CL4559;PE
+211;15/08/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Site; R$ 35,00 ;CL7018;DF
+212;26/11/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Instagram; R$ 95,00 ;CL4109;RJ
+213;20/08/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Site; R$ 48,00 ;CL1349;SP
+214;19/06/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Shopee; R$ 35,00 ;CL4362;RJ
+215;10/10/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Site; R$ 35,00 ;CL4817;PR
+216;16/03/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Site; R$ 28,00 ;CL3370;MG
+217;03/10/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL1422;MG
+218;08/01/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Instagram; R$ 95,00 ;CL1258;MG
+219;15/05/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL9619;RJ
+220;02/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Shopee; R$ 72,00 ;CL9408;GO
+221;25/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL1710;DF
+222;03/06/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Mercado Livre; R$ 72,00 ;CL1996;PE
+223;24/07/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Site; R$ 72,00 ;CL8267;RJ
+224;11/02/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Site; R$ 95,00 ;CL3067;BA
+225;15/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL6327;SC
+226;01/11/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Instagram; R$ 28,00 ;CL8048;RJ
+227;25/12/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Shopee; R$ 48,00 ;CL4522;SC
+228;19/08/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Site; R$ 35,00 ;CL8430;SC
+229;31/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Site; R$ 40,00 ;CL6120;BA
+230;10/07/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Mercado Livre; R$ 35,00 ;CL2099;RJ
+231;13/02/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Site; R$ 48,00 ;CL7105;MG
+232;11/10/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Mercado Livre; R$ 48,00 ;CL6400;RJ
+233;29/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Mercado Livre; R$ 95,00 ;CL7929;SP
+234;27/05/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;2;Instagram; R$ 28,00 ;CL9313;RS
+235;20/03/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL2773;PR
+236;11/10/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Shopee; R$ 95,00 ;CL4705;SC
+237;14/10/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Shopee; R$ 28,00 ;CL1430;GO
+238;02/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL5477;BA
+239;22/06/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL3347;GO
+240;02/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL1502;RJ
+241;28/09/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Instagram; R$ 35,00 ;CL6585;MG
+242;08/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;3;Site; R$ 95,00 ;CL2391;SP
+243;20/03/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Site; R$ 35,00 ;CL2336;BA
+244;14/08/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL8242;SC
+245;19/05/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Site; R$ 35,00 ;CL8043;RJ
+246;25/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL9633;BA
+247;24/01/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Mercado Livre; R$ 35,00 ;CL1897;SP
+248;14/04/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Shopee; R$ 95,00 ;CL5186;BA
+249;16/06/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Instagram; R$ 48,00 ;CL8055;MG
+250;07/03/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Shopee; R$ 72,00 ;CL9196;DF
+251;08/12/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Instagram; R$ 95,00 ;CL1693;SC
+252;10/01/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Mercado Livre; R$ 72,00 ;CL8033;GO
+253;26/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL2887;SC
+254;11/01/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Shopee; R$ 95,00 ;CL8538;PR
+255;15/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Site; R$ 72,00 ;CL7560;DF
+256;10/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Shopee; R$ 72,00 ;CL4630;PR
+257;27/03/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Instagram; R$ 48,00 ;CL9693;DF
+258;09/04/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;2;Shopee; R$ 95,00 ;CL3419;RS
+259;22/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Site; R$ 35,00 ;CL3504;RJ
+260;31/03/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Instagram; R$ 40,00 ;CL8354;GO
+261;25/11/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL6179;MG
+262;13/08/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Instagram; R$ 48,00 ;CL5961;BA
+263;29/10/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Instagram; R$ 48,00 ;CL6085;PE
+264;19/08/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Instagram; R$ 48,00 ;CL5703;RJ
+265;26/11/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Instagram; R$ 48,00 ;CL7299;PE
+266;24/10/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Mercado Livre; R$ 28,00 ;CL8368;GO
+267;29/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Instagram; R$ 35,00 ;CL9214;MG
+268;01/02/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Shopee; R$ 72,00 ;CL6626;RJ
+269;15/09/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;1;Site; R$ 40,00 ;CL8172;PE
+270;25/09/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL7108;BA
+271;17/07/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Shopee; R$ 72,00 ;CL1857;PR
+272;03/02/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Instagram; R$ 95,00 ;CL7333;BA
+273;09/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Mercado Livre; R$ 40,00 ;CL3463;PR
+274;11/02/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Site; R$ 28,00 ;CL6731;BA
+275;01/12/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL2388;BA
+276;13/10/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Shopee; R$ 72,00 ;CL3093;DF
+277;17/02/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL6928;SP
+278;04/07/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Mercado Livre; R$ 95,00 ;CL6598;PE
+279;08/04/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL5846;RJ
+280;16/09/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;3;Mercado Livre; R$ 28,00 ;CL1618;PR
+281;12/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Instagram; R$ 35,00 ;CL3658;MG
+282;20/12/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Shopee; R$ 28,00 ;CL1715;SC
+283;05/07/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Site; R$ 40,00 ;CL8277;GO
+284;25/05/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;2;Site; R$ 40,00 ;CL4918;BA
+285;28/08/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Shopee; R$ 35,00 ;CL8218;PE
+286;24/05/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;3;Instagram; R$ 72,00 ;CL3655;RS
+287;05/11/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Site; R$ 35,00 ;CL8873;PR
+288;10/10/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;3;Shopee; R$ 48,00 ;CL3042;BA
+289;12/02/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;2;Instagram; R$ 35,00 ;CL9410;MG
+290;11/08/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;1;Shopee; R$ 48,00 ;CL6727;SP
+291;31/07/2024;Cropped Athena;Cropped Oversized; R$ 109,90 ;2;Instagram; R$ 48,00 ;CL4862;SC
+292;11/02/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL2623;PR
+293;15/03/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Site; R$ 35,00 ;CL8740;MG
+294;27/12/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;2;Instagram; R$ 72,00 ;CL2298;SP
+295;11/05/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;1;Instagram; R$ 35,00 ;CL9647;SC
+296;26/02/2024;Moletom Vibe;Moletom Oversized; R$ 219,90 ;1;Site; R$ 95,00 ;CL1782;RS
+297;02/08/2024;Óculos Y2K Crystal;Óculos de Sol Y2K; R$ 99,90 ;3;Instagram; R$ 40,00 ;CL2816;PE
+298;01/11/2024;Boné Trucker Onyx;Boné Trucker; R$ 79,90 ;1;Instagram; R$ 28,00 ;CL4963;MG
+299;29/05/2024;Calça Cargo Bold;Calça Cargo; R$ 179,90 ;1;Instagram; R$ 72,00 ;CL4941;GO
+300;01/08/2024;Camiseta Galaxy;Camisetas Estampadas; R$ 89,90 ;3;Shopee; R$ 35,00 ;CL9576;PR
