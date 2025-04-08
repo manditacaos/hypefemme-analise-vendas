@@ -4,6 +4,7 @@ Projeto de análise de dados e visualização no Power BI da loja fictícia Hype
 
 Análise de dados completa de uma loja fictícia de streetwear feminino, usando Python e Power BI para explorar o desempenho de vendas durante o ano de 2024.
 ![Dashboard da Hype Femme](dashboard_hypefemme.png)
+<img src="dashboard/dashboard-preview.png" width="800px"/>
 ---
 
 ## 📌 Objetivo
@@ -61,3 +62,8 @@ Este projeto tem como objetivo simular o dia a dia de um(a) analista de dados, a
 ---
 
 ## 📂 Estrutura do repositório
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manditacaos/hypefemme-analise-vendas/blob/main/HypeFemmeAnalise.ipynb)
+---
+🔗 Me acompanhe no [LinkedIn](https://www.linkedin.com/in/amanda-marques-a36233289/)
