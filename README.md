@@ -3,7 +3,7 @@ Projeto de análise de dados e visualização no Power BI da loja fictícia Hype
 # 👚 Hype Femme – Análise de Vendas 2024
 
 Análise de dados completa de uma loja fictícia de streetwear feminino, usando Python e Power BI para explorar o desempenho de vendas durante o ano de 2024.
-
+![Dashboard da Hype Femme](dashboard_hypefemme.png)
 ---
 
 ## 📌 Objetivo
